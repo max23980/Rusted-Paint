@@ -1,4 +1,3 @@
-# Rusted-Paint
 # Rusted Paint
 
 A lightweight raster graphics editor written in Rust.
@@ -34,7 +33,7 @@ Make sure you have Rust and Cargo installed.
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/max23980/Rusted-Paint.git
 cd RustedPaint
 ```
 
