@@ -34,7 +34,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/max23980/Rusted-Paint.git
-cd RustedPaint
+cd Rusted-Paint
 ```
 
 Build:
