@@ -5,6 +5,7 @@
 # Rust temporary files
 **/*.rs.bk
 *.pdb
+**/mutants.out*/
 rustc-ice-*.txt
 
 # IDE
