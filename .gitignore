@@ -1,0 +1,28 @@
+﻿# Rust build artifacts
+/target/
+/debug/
+
+# Rust temporary files
+**/*.rs.bk
+*.pdb
+rustc-ice-*.txt
+
+# IDE
+.idea/
+.vscode/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Development backups
+/backups/
+
+# Project generators
+/RustedPaint_Stage1.py
+/RustedPaint_Updater_03.py
