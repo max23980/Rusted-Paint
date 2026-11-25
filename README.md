@@ -67,3 +67,8 @@ Suggestions for new features, improvements and usability are welcome.
 ## License
 
 See the LICENSE file for licensing information.
+
+## Screenshots
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6bbb02f2-3cc7-4dd8-ba14-1b719d74ca94" />
+
+
